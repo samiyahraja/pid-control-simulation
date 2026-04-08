@@ -5,3 +5,5 @@ cd pid-control-simulation
 pip install -r requirements.txt 
 python src/main.py
 ```
+Example output : 
+![Simulation Output](pidFig.png)
